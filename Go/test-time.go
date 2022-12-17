@@ -7,6 +7,7 @@ import (
 
 func main() {
   
+  fmt.Println("Time")
   currentTime := time.Now()
 	fmt.Println("The time is", currentTime)
 	fmt.Println("The year is", currentTime.Year())
