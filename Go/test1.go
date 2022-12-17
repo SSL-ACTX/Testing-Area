@@ -8,8 +8,9 @@ import (
 
 func main() {
   
-  fmt.Println("Test Line!")
+  fmt.Println("Test Line1!")
   fmt.Println("Test Line2!")
+  fmt.Println("Test Line3!")
   fmt.Println("Hello World --Line")
   
   /* Time Section
